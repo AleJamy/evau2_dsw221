@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037215649225",
+    "project_id": "eval2dsw22",
+    "storage_bucket": "eval2dsw22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037215649225:android:dbf958bb6cf77b291d2c18",
+        "android_client_info": {
+          "package_name": "com.cema.evau2_dsw22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCykFndfqOoFSAOHctowPydYxa9haiCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
